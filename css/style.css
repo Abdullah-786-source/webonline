@@ -1,0 +1,185 @@
+body {
+    background-color: #F7F8FA;
+}
+.tHeader {
+    background-color:  #316DC3;
+    padding: 8px;
+}
+
+.SM-logo {
+    width: 30px;
+    height: 30px;
+    margin: 20px, auto;
+    padding: 2px;
+}
+
+
+
+}
+.Headerbtn {
+    color:  #427900;
+    border: 1px solid  #427900;
+    font-size: 12px;
+    padding: 8px;
+              
+}
+
+.top-text {
+    color: white;
+    padding: 3px;
+}
+
+.Saylani-logo {
+    max-height: 52px;
+}
+
+
+.image-slider {
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    height: 530px;
+}
+
+
+.ticker {
+    background-color: #316DC3;
+    margin: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+}
+
+.main-text {
+    font-family: Palatino, Georgia, serif;
+}
+
+.icon {
+    padding-bottom: 20px;
+}
+
+.heading-blue {
+    color: #316DC3 !important;
+    
+}
+
+.heading-green {
+    color: #427900;
+}
+
+.heading-green-u {
+    margin: 2px;
+    color: #427900;
+    border-bottom: 4px solid #427900;
+}
+
+.text-all {
+    font-family: sans-serif;
+    padding-bottom: 50px;
+}
+
+.stats-blue {
+    background-color: #316DC3;
+    padding: 40px;
+    color: white;
+    font-size: 38pt;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fact-1 {
+    font-size: large;
+    text-transform: uppercase;
+}
+
+.img-box {
+   margin: 20px;
+   padding: 50px;
+   box-shadow: 0 8px 16px 0 lightgrey, 0 6px 20px 0 lightgrey;
+   color: #316DC3;
+   font-weight: bold;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.icon-box {
+    width: 300px;
+    border: solid 1px rgb(233, 233, 233);
+    padding: 20px;
+    background-color: #F7F8FA;
+    color: #316DC3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15pt;
+    font-weight: bold;
+}
+
+.pd-20 {
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+
+.mission {
+    color: #316DC3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase ;
+    border-bottom: 3px solid #427900;
+    padding: 20px;
+    
+}
+.img-responsive {
+    max-width: 19%;
+    display: inline;
+    padding: 2px;
+} 
+
+.ft {
+    background-color: #25272e;
+    color: #bbb;
+    padding: 50px;
+}
+
+.contact {
+    list-style-type: none;
+    padding: 5px;
+    margin: 0px;
+    
+}
+
+.fas, .far {
+    padding: 2px;
+    color: #427900;
+}
+
+.usefullinks {
+    color: white;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.links {
+    border-bottom: #427900 2px solid;
+}
+
+.connect {
+    list-style-type: none;
+    display: inline;
+    padding: 2px;
+}
+
+.fab{
+    height: 30px;
+    width: 30px;
+    background-color: #316DC3;
+    border-radius: 50%;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 7px;
+}
+
+.btm {
+    background-color: #316DC3;
+    color: white;
+    margin: auto;
+    padding: 10px;
+    
+}
